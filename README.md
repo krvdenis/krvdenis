@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет! Я Денис 👋
 
-<!--
-**krvdenis/krvdenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Backend-разработчик на языке Java, специализируюсь на проектировании и создании распределенных бэкенд-систем, микросервисных архитектур и надежной бизнес-логики на стеке **Spring Boot & Docker**.
 
-Here are some ideas to get you started:
+В разработку я пришел осознанно: мне близко решение сложных логических задач, структурирование процессов и поиск оптимальных архитектурных решений. Проекты всегда создаю с фокусом на оптимизацию ресурсов (снижение нагрузки на БД, пагинация, изоляция слоев) и качество кода через Unit- и интеграционное тестирование.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Управленческий бэкграунд в сфере IT-продаж помогает мне смотреть на код глазами бизнеса, эффективно общаться в команде и декомпозировать задачи.
+
+---
+
+### 🛠️ Технологический стек
+
+*   **Языки программирования:** Java 21
+*   **Фреймворки и библиотеки:** Spring Boot 3.x, Spring Web, Spring Security, Spring Data JPA, Spring JDBC
+*   **Базы данных и ORM:** PostgreSQL, Hibernate, СУБД H2, , SQL
+*   **Инструменты и технологии:** REST API, JWT (JJWT), Querydsl, RestTemplate, WebMvcTest, Mockito, JUnit 5
+*   **Сборка и инфраструктура:** Docker, Docker Compose, Maven, Git (Git CLI)
+
+---
+
+### 🚀 Мои ключевые проекты (Портфолио)
+
+*   **[ExploreWithMe]([https://github.com](https://github.com/krvdenis/java-explore-with-me))** — Микросервисная распределенная платформа организации событий на стеке Spring Boot, PostgreSQL и Docker. Реализовал Stateless REST API с JWT-безопасностью (JJWT 0.12), многоуровневый доступ к эндпоинтам и динамическую фильтрацию через Querydsl.
+*   **[ShareIt]([https://github.com](https://github.com/krvdenis/java-shareit))** — P2P-платформа для шеринга вещей (двухуровневая архитектура Gateway + Server). Настроил жесткую валидацию временных интервалов, пагинацию списков и написал развитую тестовую модель, покрыв бизнес-логику тестами на 90% (Mockito, WebMvcTest).
+*   **[Filmorate]([https://github.com](https://github.com/krvdenis/java-filmorate))** — Бэкенд-сервис для оценки фильмов. Успешно провел архитектурный рефакторинг слоя данных, переведя приложение со структур In-Memory на встроенную реляционную БД H2 с помощью Spring JDBC с сохранением 100% обратной совместимости API.
+
+---
+
+### 📫 Связь со мной и статус
+
+*   💼 **Статус:** Открыт для предложений по работе, готов к участию в коммерческих проектах
+*   ✈️ **Telegram:** [https://t.me]([https://t.me](https://t.me/Deniswrk))
+*   🌐 **Локация:** Иваново, Россия (Рассматриваю удаленный формат, а также готов рассмотреть переезд в другой город)
